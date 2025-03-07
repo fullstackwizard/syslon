@@ -112,3 +112,5 @@ Planos pagos conforme volume de dados analisados.
 Venda de relatórios personalizados para empresas.
 Conclusão
 O comércio tem muitas dores que podem ser resolvidas com tecnologia. Como você já tem experiência em marketing digital e criação de sistemas, pode começar a desenvolver um desses projetos em modelo SaaS para gerar receita recorrente.
+
+https://www.youtube.com/watch?v=stj4p3UivX0
