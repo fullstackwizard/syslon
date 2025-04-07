@@ -1,4 +1,4 @@
-# londrihub17
+# SysLon (feature project) 
 
 1. Gestão de Estoque
 📌 Problema: Controle ineficiente de estoque, levando a falta ou excesso de produtos.
